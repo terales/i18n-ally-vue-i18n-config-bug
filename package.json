@@ -1,0 +1,19 @@
+{
+  "name": "i18n-ally-vue-i18n-config-bug",
+  "description": "Minimum reproducible example for a automatic configuration bug",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terales/i18n-ally-vue-i18n-config-bug.git"
+  },
+  "author": "Alex Terehov",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/terales/i18n-ally-vue-i18n-config-bug/issues"
+  },
+  "homepage": "https://github.com/terales/i18n-ally-vue-i18n-config-bug#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "vue-i18n": "^8.25.1"
+  }
+}
